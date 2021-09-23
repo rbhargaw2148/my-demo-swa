@@ -1,0 +1,31 @@
+.header {
+    background-color: #3d4e7a;
+    height: 65px;
+    display: flex;
+    justify-content: flex-start;
+    align-items: center;
+    padding: 0.5rem 5rem;
+}
+
+.header a {
+    color: black;
+}
+
+.rightside{
+    justify-content: flex-end;
+}
+
+.appname {
+    font-size: 2rem;
+    font-weight: 500;
+    vertical-align: middle;
+  }
+
+.header span {
+    margin: 0 1rem;
+}
+
+.header p {
+    margin-bottom: 0;
+    color: #ffffff;
+}
